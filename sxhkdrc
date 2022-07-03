@@ -18,7 +18,8 @@ super + Escape
 
 super + alt + Return
 	firefox
-
+super + e
+  thunar
 #
 # bspwm hotkeys
 #
