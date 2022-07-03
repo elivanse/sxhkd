@@ -20,6 +20,8 @@ super + alt + Return
 	firefox
 super + e
   thunar
+super + s
+  ncspot
 #
 # bspwm hotkeys
 #
